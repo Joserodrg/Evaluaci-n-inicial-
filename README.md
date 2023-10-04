@@ -13,6 +13,7 @@
 **_Las herramientas de Ofimática están constituidas por conjunto de técnicas, aplicaiones y demás recursos digitales que permiten optimizar las actividades diarias en una oficina. De esta manera, las personas que desempeñan estas actividadades en este tipo de entornos logran manipular informáticamente los datos con los que trabajan. La mayoría de estas opciones están disponibles a través de programas de suscripción o mediante una compra unica_**
 
 5. Herramientas de google
+
 |Aplicaciones| Visto|
 |:-------------:|-----|
 |Google|👍🏻|
@@ -21,6 +22,7 @@
 |google Calendar|📅|
 |google Meet|💻|
 |...|...|
+|estilo cebra|gris|blanco|
 
 6. ¿Qué es HTML?
 <!DOCTYPE html>
@@ -36,5 +38,4 @@
 </html>
 
 7. ¿Qué es CSS?
-
 
