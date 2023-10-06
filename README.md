@@ -14,7 +14,7 @@
 
 5. Herramientas de google
 |Aplicaciones| Visto|
-|:-------------:|-----:|
+|:-------------:|-----|
 |Google|✔|
 |Google Slides|✔|
 |Google Sheets|✔|
