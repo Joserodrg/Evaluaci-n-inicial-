@@ -13,12 +13,11 @@
 **_Las herramientas de Ofimática están constituidas por conjunto de técnicas, aplicaiones y demás recursos digitales que permiten optimizar las actividades diarias en una oficina. De esta manera, las personas que desempeñan estas actividadades en este tipo de entornos logran manipular informáticamente los datos con los que trabajan. La mayoría de estas opciones están disponibles a través de programas de suscripción o mediante una compra unica_**
 
 5. Herramientas de google
-
 |Aplicaciones| Visto|
-|:-------------:|-----|
-|Google|👍🏻|
-|Google Slides|👍🏻|
-|Google Sheets|👍🏻|
+|:-------------:|-----:s|
+|Google|✔|
+|Google Slides|✔|
+|Google Sheets|✔|
 |google Calendar|📅|
 |google Meet|💻|
 |...|...|
@@ -38,4 +37,5 @@
 </html>
 
 7. ¿Qué es CSS?
+**_El CSS es un lenguaje informático que especifica cómo se presnetan los documentos a los usuarios:como se diseñan como se compaginan etc._**
 
