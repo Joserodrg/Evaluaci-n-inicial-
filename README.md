@@ -22,7 +22,7 @@
 |google Calendar|📅|
 |google Meet|💻|
 |...|...|
-|estilo cebra|gris|blanco|
+
 
 6. ¿Qué es HTML?
 <!DOCTYPE html>
@@ -39,4 +39,7 @@
 
 7. ¿Qué es CSS?
 **_El CSS es un lenguaje informático que especifica cómo se presnetan los documentos a los usuarios:como se diseñan como se compaginan etc._**
+
+
+
 
